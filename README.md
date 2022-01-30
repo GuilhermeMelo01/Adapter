@@ -13,5 +13,6 @@ Podemos utilizar o padrão ADAPTER para **converter a interface de um objeto** d
 Um adaptador encobre um dos objetos para esconder as regras de negocio e qualquer dificuldade de conversão, isso fica oculto. O objeto encoberto neste caso o PayPal nem fica sabendo que existe um adapter, o adapter só consome a informação.
 
 __Adapter__: Converte a interface de uma classe para outra interface que o codigo cliente espera encontrar. A entidade adaptadora permite que classes com interfaces incompativeis trabalhem juntas.
+***
 
-[DIAGRAMA](https://cdn.discordapp.com/attachments/937340483997421593/937340561025798184/diagrama_Adapter.png)
+[DIAGRAMA ADAPTER](https://cdn.discordapp.com/attachments/937340483997421593/937340561025798184/diagrama_Adapter.png)
